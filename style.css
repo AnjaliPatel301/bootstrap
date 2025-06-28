@@ -1,1 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    letter-spacing: .03rem;
+    color:#231e41
+}
 
+/*
+white=#fff;
+black-#231e41
+ligh-mRG-6f6f87
+SAFF-f5c332
+dar-g-f2f3f5
+ligh-g-f9fafc
+ {
+
+} */
+ #header{
+    padding-top: 9rem;
+ }
+#header a{    
+    border-radius: none !important;
+    font-weight: bold;
+    font-size: 0.8rem;
+    color:#231e41;
+    background-color: #f5c332;
+    border: none;
+ }
+#header a:hover{
+    background-color: #f3b90d;
+ }
+  #header h1{
+    font-size: 4rem;
+  }
+ #header img{
+    width: 100%;
+ }
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    max-width:100% ;
+    height: auto;
+    object-fit: cover;
+}
+.navbar-brand{
+    font-size: 600;
+    font-size: 1.6rem;
+    color: #231e41;
+}
+.fa-bowl-food,
+.active,
+.nav-link:hover{
+    color:#f5c332 !important;
+}
+
+.nav-item{
+    padding-inline: 1.5rem;
+}
+
+.nav-link{
+    font-size: .9rem;
+    color:#231e41;
+}
+.nav-icon a{
+    font-size: 1.2rem;
+    padding-inline:.5rem;
+}
+.nav-icon .fa-bag-shopping{
+font-size: 1.2rem;
+padding: 5px;
+background-color: #e8e8e9;
+border-radius: 50%;
+}
+.nav-icon .fa-bag-shopping:hover{
+background-color: #d3cece;
+}
+
+#doing h1{
+    font-weight: bold;
+    color:#f3b90d;
+    font-size: 3rem;
+    
+}
