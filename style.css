@@ -98,16 +98,6 @@ background-color: #d3cece;
     background-color: #ffffff;
 }
 
-#form input{
-   width: 100%;
-   padding: 0px 10px;
- }
- #form textarea{
-   width: 100%;
- }
- #form a{
-   padding: 0px 40px;
- }
  #footer{
    background-color: rgb(235, 226, 174);
  }
