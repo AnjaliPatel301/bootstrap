@@ -5,8 +5,18 @@
     color:#231e41
 }
 
+/*
+white=#fff;
+black-#231e41
+ligh-mRG-6f6f87
+SAFF-f5c332
+dar-g-f2f3f5
+ligh-g-f9fafc
+ {
+
+} */
  #header{
-    padding-top: 9rem;
+    padding-top: 5rem;
  }
 #header a{    
     border-radius: none !important;
@@ -73,5 +83,39 @@ background-color: #d3cece;
     font-weight: bold;
     color:#f3b90d;
     font-size: 3rem;
+
     
 }
+#card{
+    margin: 3px;
+}
+
+#card:hover{
+    scale: 0.90;
+    border: 1px solid #f5b800;
+}
+#deal{
+    background-color: #ffffff;
+}
+
+#form input{
+   width: 100%;
+   padding: 0px 10px;
+ }
+ #form textarea{
+   width: 100%;
+ }
+ #form a{
+   padding: 0px 40px;
+ }
+ #footer{
+   background-color: rgb(235, 226, 174);
+ }
+ #journry{
+   background-color: #e1eef6;
+ }
+ #contact ul li{
+    color:#fff;
+    
+    list-style:circle;
+ }
